@@ -11,6 +11,9 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=grey">
 </p>
 
+<p align="center">
+  <img src="https://github.com/scillapinheiro/kenzie-academy-lista-de-compras/blob/main/mockup.jpg">
+</p>
 
 ## :computer: Projeto
 Adicione e remova itens na lista de compras.
